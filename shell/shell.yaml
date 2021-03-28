@@ -1,0 +1,12 @@
+actions:
+  - action: package.install
+    list:
+      - htop
+      - tree
+      - screen
+      - ncdu
+      - rsync
+      - jq
+      - wget
+      - zsh-autosuggestions
+      - zsh-syntax-highlighting
